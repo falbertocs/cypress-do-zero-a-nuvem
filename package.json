@@ -5,8 +5,8 @@
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cy:open": "cypress open"
-    "test:clound": ""
+    "cy:open": "cypress open",
+    "test:clound": "cypress run --record"
   },
   "repository": {
     "type": "git",
